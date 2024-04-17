@@ -1,5 +1,5 @@
 namespace SplitBill. SplitTheBillLibrary;
-public class SplitBill
+public class TakeCurrency
 {
     public decimal SplitAmount(int people, decimal currency){
         if(currency == 0){
